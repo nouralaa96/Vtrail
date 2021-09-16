@@ -18,4 +18,9 @@ public void test2(){
         System.out.println("git 3");
 
     }
+    @Test
+    public void branch1(){
+        System.out.println("git 3");
+
+    }
 }
