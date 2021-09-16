@@ -13,5 +13,9 @@ public void test2(){
 
 }
 
+    @Test
+    public void test3(){
+        System.out.println("git 3");
 
+    }
 }
